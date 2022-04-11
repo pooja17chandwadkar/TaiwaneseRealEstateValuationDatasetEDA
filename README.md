@@ -1,7 +1,7 @@
 # Taiwanese Real Estate Valuation Dataset EDA
 Exploratory Data Analysis using Python
 ## Overview
-In this project, I take a look at a Taiwanese real estate valuation dataset. 
+In this project, I took a look at a Taiwanese real estate valuation dataset. 
 The market historical data set of real estate valuation are collected from Xindian Dist., New Taipei City, Taiwan. 
 This dataset was sourced from the UCI machine learning repository. 
 The dataset has 7 columns and a total of 414 rows. Below are details regarding the attributes. Out of the 7 columns, Y (house price of area unit) is the target variable
